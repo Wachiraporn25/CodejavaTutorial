@@ -1,5 +1,5 @@
 public class TestMax {
-    static int nax(int num1, int num2){
+    static int max(int num1, int num2){
         if(num1 > num2){
             return num1;
         }else{
